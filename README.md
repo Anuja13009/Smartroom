@@ -32,10 +32,8 @@ Booking systems for study rooms or group meetings often suffer from poor UI, slo
 
 ---
 
-## 🎬 Demo
+![Demo](https://github.com/Anuja13009/Smartroom/blob/main/demo.gif)
 
-> 📷 *(Insert a GIF or screenshot of the booking flow here)*  
-> 🖥️ *(Add a [Live Demo Link](#) here if deployed)*
 
 ---
 
