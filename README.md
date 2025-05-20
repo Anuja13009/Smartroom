@@ -43,4 +43,35 @@ Booking systems for study rooms or group meetings often suffer from poor UI, slo
    ```bash
    git clone https://github.com/Anuja13009/Smartroom.git
    cd Smartroom
+   ```
+
+2. Install dependencies:
+   ```bash
+   cd client
+   npm install
+   cd ../server
+   npm install
+   ```
+
+3. Create a `.env` file in the `server/` folder using the structure below:
+   ```env
+   MONGO_URI=your_mongodb_connection_string
+   TWILIO_SID=your_twilio_account_sid
+   TWILIO_AUTH=your_twilio_auth_token
+   TWILIO_PHONE=+1234567890
+   ```
+
+4. Start the application:
+   ```bash
+   # Start backend server
+   cd server
+   node server.js
+
+   # In a new terminal tab, start frontend
+   cd client
+   npm start
+   ```
+
+---
+
 
