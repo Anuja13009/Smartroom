@@ -32,7 +32,7 @@ Booking systems for study rooms or group meetings often suffer from poor UI, slo
 
 ---
 
-![Demo](https://github.com/Anuja13009/Smartroom/blob/main/demo.gif)
+Demo:  https://smartroomasu.netlify.app/
 
 
 ---
